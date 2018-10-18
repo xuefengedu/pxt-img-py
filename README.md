@@ -1,6 +1,6 @@
 # Usage for Img2Lcd.exe data to merge 3 RGB hex into 1 hex
 ```
-c:\pxt-image-py>C:\Users\scxsvc\AppData\Local\Programs\Python\Python37\python test.py -i dt.c -o output.txt
+c:\pxt-image-py>C:\Python37\python test.py -i dt.c -o output.txt
 c:\pxt-image-py
 0x6c99f0,
 0x407aee,
